@@ -1,0 +1,28 @@
+_repo: Reisjes-in-Zuid-Vlaanderen_26102
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sevens, Theodoor
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '31798'
+    url: http://www.gutenberg.org/2009/agents/31798
+description: ''
+gutenberg_issued: '2008-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26102'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcc 'DJ'
+- !lcsh 'Fraans-Vlaanderen (La Flandre française, French Flanders, France : Province)
+  -- Description and travel'
+title: Reisjes in Zuid-Vlaanderen
+url: http://www.gutenberg.org/ebooks/26102
